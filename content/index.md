@@ -1,5 +1,5 @@
 ---
-title: Welcome to Quartz
+title: BIENBENIDO A CIVIL FOCUS
 ---
 
 This is a blank Quartz installation.
