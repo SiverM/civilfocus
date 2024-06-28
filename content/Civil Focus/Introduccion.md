@@ -5,4 +5,5 @@ etiqueta:
   - 
 ---
  
-La introducción va aquí
+La introducción va aquí exactamente
+$$a+b$$
