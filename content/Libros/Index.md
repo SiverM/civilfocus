@@ -1,11 +1,11 @@
 ---
 longform:
   format: scenes
-  title: Civil Focus
+  title: Libros
   workflow: Default Workflow
   sceneFolder: /
   scenes:
-    - Introduccion
-  sceneTemplate: templates/Capitulo.md
+    - Aritmética Baldor
+  sceneTemplate: templates/Libro.md
   ignoredFiles: []
 ---
