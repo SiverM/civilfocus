@@ -7,6 +7,7 @@
 **Enlace PDF:** [<% tp.file.title %>](url)
 <iframe src="Enlace de drive y cambiado a preview" width="100%" height="1030"></iframe>
 ***
+<br>
 **Resumen:**
 
 **Notas:**
